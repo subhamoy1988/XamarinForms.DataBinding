@@ -1,0 +1,24 @@
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\obj\Debug\ContactForm.csprojResolveAssemblyReference.cache
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\bin\Debug\ContactForm.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\bin\Debug\ContactForm.pdb
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\obj\Debug\ContactDetails.xaml.g.cs
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\obj\Debug\ContactForm.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\obj\Debug\ContactForm.pdb
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\obj\Debug\ContactForm.dll.mdb
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm\bin\Debug\ContactForm.dll.mdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\bin\Debug\ContactForm.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\bin\Debug\ContactForm.pdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\obj\Debug\ContactDetails.xaml.g.cs
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\obj\Debug\ContactForm.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\obj\Debug\ContactForm.pdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\obj\Debug\ContactForm.csprojResolveAssemblyReference.cache
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\obj\Debug\ContactForm.dll.mdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm\bin\Debug\ContactForm.dll.mdb

@@ -1,0 +1,30 @@
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\bin\iPhone\Debug\ContactFormiOS.exe
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\bin\iPhone\Debug\ContactFormiOS.pdb
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\bin\iPhone\Debug\ContactForm.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\bin\iPhone\Debug\ContactForm.pdb
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\obj\iPhone\Debug\optimized\
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\obj\iPhone\Debug\ContactForm.iOS.csprojResolveAssemblyReference.cache
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\obj\iPhone\Debug\ContactFormiOS.exe
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\obj\iPhone\Debug\ContactFormiOS.pdb
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\obj\iPhone\Debug\ContactFormiOS.exe.mdb
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.iOS\bin\iPhone\Debug\ContactFormiOS.exe.mdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\bin\iPhone\Debug\ContactFormiOS.exe
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\bin\iPhone\Debug\ContactFormiOS.pdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\bin\iPhone\Debug\ContactForm.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\bin\iPhone\Debug\ContactForm.pdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\obj\iPhone\Debug\optimized\
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\obj\iPhone\Debug\ContactForm.iOS.csprojResolveAssemblyReference.cache
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\obj\iPhone\Debug\ContactFormiOS.exe
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\obj\iPhone\Debug\ContactFormiOS.pdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\obj\iPhone\Debug\ContactFormiOS.exe.mdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.iOS\bin\iPhone\Debug\ContactFormiOS.exe.mdb

@@ -1,0 +1,54 @@
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\obj\Debug\ContactForm.Droid.csprojResolveAssemblyReference.cache
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.Droid.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.Droid.pdb
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.Droid.apk
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.Droid-Signed.apk
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\FormsViewGroup.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.pdb
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\obj\Debug\ContactForm.Droid.dll
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\obj\Debug\ContactForm.Droid.pdb
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\obj\Debug\android\bin\ContactForm.Droid.apk
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\obj\Debug\res\drawable\icon.png
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\obj\Debug\R.cs.flag
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\obj\Debug\uploadflags.txt
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\obj\Debug\ContactForm.Droid.dll.mdb
+c:\users\sburman\documents\visual studio 2013\Projects\ContactForm\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.Droid.dll.mdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.Droid.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.Droid.pdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.Droid.apk
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.Droid-Signed.apk
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.pdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\ContactForm.Droid.csprojResolveAssemblyReference.cache
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\ContactForm.Droid.dll
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\ContactForm.Droid.pdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\android\bin\ContactForm.Droid.apk
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\R.cs.flag
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\uploadflags.txt
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\res\drawable\homer.gif
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\res\drawable\ic_action_search.png
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\res\drawable-hdpi\homer.gif
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\res\drawable-hdpi\ic_action_search.png
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\obj\Debug\ContactForm.Droid.dll.mdb
+C:\Users\sburman\Documents\XamarinForms.DataBinding\ContactForm\ContactForm.Droid\bin\Debug\ContactForm.Droid.dll.mdb
